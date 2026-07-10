@@ -9,14 +9,26 @@ UTM-метками — благодаря им мы видим в аналити
 
 ---
 
-## Facebook
+## Facebook — бизнес-страница
 
 ```
-https://mortgageservicepro.com/?utm_source=facebook&utm_medium=social&utm_campaign=bio
+https://mortgageservicepro.com/?utm_source=facebook&utm_medium=social&utm_campaign=bio&utm_content=page
 ```
 
-Бизнес-страница → «Редактировать данные» → «Контактная и основная информация» → поле
-**«Веб-сайт»**. Если личный профиль: «Редактировать профиль» → «Ссылки» → добавить ссылку.
+Страница → «Редактировать данные» → «Контактная и основная информация» → поле
+**«Веб-сайт»**.
+
+- [ ] Поставлено
+
+---
+
+## Facebook — личный профиль
+
+```
+https://mortgageservicepro.com/?utm_source=facebook&utm_medium=social&utm_campaign=bio&utm_content=profile
+```
+
+«Редактировать профиль» → раздел «Ссылки» → «Добавить ссылку».
 
 - [ ] Поставлено
 
@@ -49,15 +61,29 @@ https://mortgageservicepro.com/?utm_source=linkedin&utm_medium=social&utm_campai
 
 ---
 
-## YouTube
+## YouTube — шапка канала
 
 ```
-https://mortgageservicepro.com/?utm_source=youtube&utm_medium=social&utm_campaign=bio
+https://mortgageservicepro.com/?utm_source=youtube&utm_medium=social&utm_campaign=bio&utm_content=channel
 ```
 
 YouTube Studio → «Настройка канала» → вкладка «Основные сведения» → раздел **«Ссылки»** →
-добавить (появится кнопкой в шапке канала). Плюс рекомендация: вставлять эту же ссылку
-**в описание каждого видео и Shorts** — из описаний переходов больше, чем из шапки.
+добавить (появится кнопкой в шапке канала).
+
+- [ ] Поставлено
+
+---
+
+## YouTube — описания видео
+
+```
+https://mortgageservicepro.com/?utm_source=youtube&utm_medium=social&utm_campaign=bio&utm_content=video
+```
+
+Вставлять **в описание каждого видео и Shorts** (можно добавить в шаблон описания: YouTube
+Studio → Настройки → «Загрузка видео» → «Основная информация» → поле «Описание» — тогда
+ссылка будет подставляться в новые ролики автоматически). Из описаний переходов больше, чем
+из шапки канала.
 
 - [ ] Поставлено
 
