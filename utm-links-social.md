@@ -140,3 +140,18 @@ https://mortgageservicepro.com/?utm_source=whatsapp&utm_medium=social&utm_campai
 бизнеса» → «Профиль» → поле **«Сайт»**. Ссылку увидит каждый, кто откроет профиль.
 
 - [ ] Поставлено
+---
+
+## Loan Factory (профиль на loanfactory.com)
+
+```
+https://mortgageservicepro.com/?utm_source=loanfactory&utm_medium=referral&utm_campaign=bio
+```
+
+Личный кабинет Loan Factory → настройки своей страницы лоан-офицера → поле **«Website»**
+(или «Personal website»). Если такого поля в кабинете нет — отправить ссылку в
+маркетинг/поддержку Loan Factory с просьбой добавить её на профильную страницу. Здесь метка
+`utm_medium=referral` (а не social) — это переход с партнёрского сайта, в аналитике он будет
+виден отдельно от соцсетей.
+
+- [ ] Поставлено
